@@ -1,5 +1,3 @@
-Certainly! Below is an example README template for your SkillStreet project. Feel free to modify it based on the specific details and information you want to include.
-
 ```markdown
 # SkillStreet
 
