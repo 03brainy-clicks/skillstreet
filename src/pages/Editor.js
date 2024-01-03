@@ -54,7 +54,7 @@ const Editor = () => {
           <div className="logo text-xl font-semibold">NoteIt.</div>
           <div className="flex gap-2 items-center">
             <button
-              onClick={() => navigate("/")}
+              onClick={() => navigate("/dashboard")}
               className="p-2 px-5 text-xs animate rounded-md text-black border border-black font-medium"
             >
               Back
